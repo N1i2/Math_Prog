@@ -1,0 +1,5 @@
+﻿  Combi.cpp
+D:\univer\MayhProg\labs\laba_2(+)\laba2\laba2\Combi.cpp(40,37): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  laba2.1.cpp
+  Generating Code...
+  laba2.vcxproj -> D:\univer\MayhProg\labs\laba_2(+)\laba2\x64\Debug\laba2.1.exe
